@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-🔥 Fullstack + AI Developer with **3.6+ years of industry experience**  
+🔥 Fullstack + AI Developer with **4+ years of industry experience**  
 🌟 Skilled in building **production-ready applications, AI-powered workflows & scalable systems**  
 📍 Pune, Maharashtra, India  
 💬 Ask me about `React` • `Next.js` • `Python` • `AI/LLMs` • `DevOps` • `Mobile Apps`
