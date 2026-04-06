@@ -113,3 +113,13 @@
 </details>
 
 > 📌 *Tools & technologies listed above are the ones I actively use and love working with.*
+
+---
+
+## 🌟 Experience Snapshot
+| 🚀 Company | 📌 Role | ⏳ Duration | 🔧 Key Tech |
+|---------|--------|-------------|------------|
+| Pyrack Technologies | AI-Driven Fullstack Developer | Sep 2023 – Present | React · Next.js · Django · Python · Firebase · AI/LLMs · FastAPI |
+| Mobiloitte Technologies | React Native Developer | Apr 2022 – Jun 2023 | React Native · Redux · Blockchain APIs · Crypto |
+
+---
